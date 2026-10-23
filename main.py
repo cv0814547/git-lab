@@ -1,0 +1,1 @@
+print("версия master")
